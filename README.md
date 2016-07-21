@@ -1,6 +1,8 @@
 Dialect for SQLAlchemy
 ===============================
 
+Main development has been moved under the [Teradata Organization](https://github.com/Teradata/sqlalchemy-teradata)
+
  SQLAlchemy is a database toolkit that provides an abstraction over databases. It allows you to interact with relational databases using an object relational mapper or through a pythonic sql rendering engine known as the core. 
 
  Read the documentation and more: http://www.sqlalchemy.org/
